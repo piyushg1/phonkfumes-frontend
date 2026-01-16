@@ -1,11 +1,3 @@
-# Pixels – Free template to start your Next.js site
-#### Preview
-
- - [Demo](https://themewagon.github.io/pixels-reactjs/)
-
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/pixels-react/)
-
 ## Getting Started
 
 1. Clone Repository
